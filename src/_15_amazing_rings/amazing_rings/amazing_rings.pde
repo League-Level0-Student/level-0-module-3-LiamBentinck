@@ -32,6 +32,7 @@ void draw() {
   left=+1;
 }
   if(big<600){
-    right=-1;
+    right=+1;
   }
+ 
 }
